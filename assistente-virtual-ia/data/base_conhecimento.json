@@ -1,0 +1,81 @@
+{
+  "orcamento": {
+    "titulo": "Orcamento mensal",
+    "palavras_chave": ["orcamento", "gastos", "despesas", "renda", "salario", "controle"],
+    "resposta": "Um orcamento mensal ajuda a entender quanto dinheiro entra, quanto sai e quais gastos podem ser ajustados. O primeiro passo e listar renda, contas fixas, gastos variaveis e valores destinados a objetivos.",
+    "passos": [
+      "Liste toda a renda do mes.",
+      "Separe contas fixas, como aluguel, energia e internet.",
+      "Registre gastos variaveis, como mercado, transporte e lazer.",
+      "Defina um limite para cada categoria.",
+      "Revise o resultado no fim do mes."
+    ],
+    "proxima_acao": "Crie uma tabela simples com entrada, saida e saldo previsto para o mes."
+  },
+  "reserva_emergencia": {
+    "titulo": "Reserva de emergencia",
+    "palavras_chave": ["reserva", "emergencia", "guardar", "poupar", "imprevisto", "seguranca"],
+    "resposta": "A reserva de emergencia e um dinheiro separado para lidar com imprevistos, como perda de renda, problemas de saude ou despesas urgentes. Ela deve ficar em um lugar seguro e de facil acesso.",
+    "passos": [
+      "Calcule seus gastos essenciais mensais.",
+      "Defina uma meta inicial pequena e realista.",
+      "Guarde um valor fixo todo mes, mesmo que seja baixo.",
+      "Evite usar a reserva para compras planejadas.",
+      "Reponha o valor sempre que precisar utilizar."
+    ],
+    "proxima_acao": "Comece com uma meta inicial de um mes de gastos essenciais."
+  },
+  "dividas": {
+    "titulo": "Organizacao de dividas",
+    "palavras_chave": ["divida", "dividas", "atraso", "juros", "renegociar", "parcelamento"],
+    "resposta": "Para organizar dividas, e importante listar todos os valores, taxas de juros, parcelas e prazos. Dividas com juros maiores geralmente devem receber prioridade porque crescem mais rapido.",
+    "passos": [
+      "Liste todas as dividas em aberto.",
+      "Anote valor total, parcela, vencimento e taxa de juros.",
+      "Priorize as dividas mais caras.",
+      "Evite assumir novas parcelas antes de reorganizar o fluxo de caixa.",
+      "Procure canais oficiais para renegociacao."
+    ],
+    "proxima_acao": "Monte uma lista das dividas ordenada da maior taxa de juros para a menor."
+  },
+  "cartao_credito": {
+    "titulo": "Uso consciente do cartao de credito",
+    "palavras_chave": ["cartao", "credito", "fatura", "limite", "parcelar", "rotativo"],
+    "resposta": "O cartao de credito pode ajudar na organizacao, mas exige controle. O ideal e acompanhar a fatura durante o mes, evitar compras por impulso e pagar o valor total sempre que possivel.",
+    "passos": [
+      "Acompanhe a fatura antes do fechamento.",
+      "Evite comprometer todo o limite.",
+      "Analise se uma compra parcelada cabe nos meses seguintes.",
+      "Evite pagar apenas o minimo da fatura.",
+      "Use alertas para lembrar o vencimento."
+    ],
+    "proxima_acao": "Confira sua fatura atual e marque quais compras foram essenciais e quais foram impulsivas."
+  },
+  "pix_seguranca": {
+    "titulo": "Pix e seguranca digital",
+    "palavras_chave": ["pix", "golpe", "seguranca", "senha", "fraude", "transferencia"],
+    "resposta": "Para usar Pix com mais seguranca, confirme os dados do destinatario antes de transferir, desconfie de urgencias artificiais e nunca compartilhe senhas ou codigos de verificacao.",
+    "passos": [
+      "Confira nome e instituicao antes de confirmar.",
+      "Desconfie de mensagens pedindo dinheiro com urgencia.",
+      "Nao compartilhe senha, token ou codigo recebido por SMS.",
+      "Use limites de transacao adequados ao seu perfil.",
+      "Em caso de suspeita, acione o banco imediatamente."
+    ],
+    "proxima_acao": "Revise os limites Pix no aplicativo do seu banco e ajuste para sua rotina."
+  },
+  "metas": {
+    "titulo": "Metas financeiras",
+    "palavras_chave": ["meta", "objetivo", "comprar", "viagem", "planejar", "economizar"],
+    "resposta": "Uma meta financeira fica mais facil quando tem valor, prazo e plano de contribuicao. Em vez de apenas desejar economizar, transforme o objetivo em uma quantia mensal.",
+    "passos": [
+      "Defina o objetivo com clareza.",
+      "Estime o valor necessario.",
+      "Escolha um prazo realista.",
+      "Divida o valor total pelo numero de meses.",
+      "Acompanhe o progresso mensalmente."
+    ],
+    "proxima_acao": "Escolha uma meta e calcule quanto precisa guardar por mes para atingi-la."
+  }
+}
+

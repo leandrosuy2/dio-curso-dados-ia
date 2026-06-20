@@ -1,0 +1,31 @@
+[
+  {
+    "pergunta": "Como eu faco para organizar meu orcamento mensal?",
+    "tema_esperado": "orcamento"
+  },
+  {
+    "pergunta": "O que e uma reserva de emergencia?",
+    "tema_esperado": "reserva_emergencia"
+  },
+  {
+    "pergunta": "Tenho varias dividas, por onde comeco?",
+    "tema_esperado": "dividas"
+  },
+  {
+    "pergunta": "Como evitar problema com fatura do cartao?",
+    "tema_esperado": "cartao_credito"
+  },
+  {
+    "pergunta": "Como usar Pix com mais seguranca?",
+    "tema_esperado": "pix_seguranca"
+  },
+  {
+    "pergunta": "Quero juntar dinheiro para uma viagem.",
+    "tema_esperado": "metas"
+  },
+  {
+    "pergunta": "Qual acao da bolsa vai subir amanha?",
+    "tema_esperado": "fora_da_base"
+  }
+]
+
