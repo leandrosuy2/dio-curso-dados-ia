@@ -1,0 +1,10 @@
+id_transacao,cliente_id,valor,tipo,pais,hora,canal,z_score,motivos
+4,103,7800.0,transferencia,Brasil,2,app,1.02,valor acima de R$ 5.000; transacao em horario incomum
+6,105,9800.0,compra,Estados Unidos,3,cartao,1.46,valor acima de R$ 5.000; transacao em horario incomum; transacao internacional
+9,108,6200.0,transferencia,Brasil,22,internet_banking,0.67,valor acima de R$ 5.000
+11,110,2300.0,saque,Brasil,1,caixa_eletronico,-0.19,transacao em horario incomum; saque de alto valor
+13,112,13400.0,transferencia,Alemanha,4,internet_banking,2.25,valor muito acima da media (z-score 2.25); valor acima de R$ 5.000; transacao em horario incomum; transacao internacional
+16,115,5100.0,compra,Brasil,15,cartao,0.43,valor acima de R$ 5.000
+19,118,7600.0,saque,Brasil,5,caixa_eletronico,0.97,valor acima de R$ 5.000; transacao em horario incomum; saque de alto valor
+21,120,8900.0,compra,Argentina,2,cartao,1.26,valor acima de R$ 5.000; transacao em horario incomum; transacao internacional
+24,123,15000.0,transferencia,Brasil,1,internet_banking,2.60,valor muito acima da media (z-score 2.60); valor acima de R$ 5.000; transacao em horario incomum

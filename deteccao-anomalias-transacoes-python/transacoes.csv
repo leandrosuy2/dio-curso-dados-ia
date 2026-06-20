@@ -1,0 +1,27 @@
+id_transacao,cliente_id,valor,tipo,pais,hora,canal
+1,101,89.90,compra,Brasil,14,app
+2,101,120.50,compra,Brasil,16,app
+3,102,45.00,pix,Brasil,10,internet_banking
+4,103,7800.00,transferencia,Brasil,2,app
+5,104,250.00,compra,Brasil,19,cartao
+6,105,9800.00,compra,Estados Unidos,3,cartao
+7,106,320.00,saque,Brasil,11,caixa_eletronico
+8,107,150.75,pix,Brasil,13,app
+9,108,6200.00,transferencia,Brasil,22,internet_banking
+10,109,75.30,compra,Brasil,9,app
+11,110,2300.00,saque,Brasil,1,caixa_eletronico
+12,111,180.00,compra,Brasil,18,cartao
+13,112,13400.00,transferencia,Alemanha,4,internet_banking
+14,113,60.00,pix,Brasil,12,app
+15,114,540.00,compra,Brasil,20,cartao
+16,115,5100.00,compra,Brasil,15,cartao
+17,116,35.90,compra,Brasil,8,app
+18,117,220.00,pix,Brasil,23,app
+19,118,7600.00,saque,Brasil,5,caixa_eletronico
+20,119,410.00,transferencia,Brasil,17,internet_banking
+21,120,8900.00,compra,Argentina,2,cartao
+22,121,95.00,pix,Brasil,6,app
+23,122,130.00,compra,Brasil,21,app
+24,123,15000.00,transferencia,Brasil,1,internet_banking
+25,124,260.00,compra,Brasil,14,cartao
+
